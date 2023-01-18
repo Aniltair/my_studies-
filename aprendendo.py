@@ -5,7 +5,7 @@ lista = []
 #Funções:
 def adicionar(lista):
     while True:
-        nova_add = input('Adicione os novos objetos:')
+        nova_add = input('Adicione os novos objetos: ')
         if nova_add == '':
             print('Sua lista não pode estar vazia!')
             continue
@@ -35,7 +35,7 @@ while True:
         print('Sua lista:')
     listar(lista)
     print('Escolha uma das opções abaixo!')
-    op =  input('(A)dicionar (R)emover').capitalize()
+    op =  input('(A)dicionar (R)emover ').capitalize()
     if op == 'A' or 'R': 
         ...
     else:
