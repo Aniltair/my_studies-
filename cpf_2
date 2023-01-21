@@ -1,6 +1,9 @@
-cpf = ('36292765040')
-nove_dig = cpf[:9]
+import re
 
+cpf = ('3629276504-0')
+cpf = re.sub(r'[^0-9]', '', cpf)
+nove_dig = cpf[:9]
+print(cpf)
 def Digito_um(nove_dig):
     contador_regres = 10
     resultado = 0
