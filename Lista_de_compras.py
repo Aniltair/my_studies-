@@ -1,7 +1,6 @@
 import os 
 # A lista
 lista = []
-
 #Funções:
 def adicionar(lista):
     while True:
