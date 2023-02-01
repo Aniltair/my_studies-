@@ -1,0 +1,16 @@
+
+
+'''def multiplicação(*arg):
+    tot = 1
+    for numero in arg:
+        tot *= numero
+    print(tot)
+    return tot
+multi = multiplicação(1, 2, 3, 4)'''
+
+def par_impar(numero):
+    numero = 2 
+    if numero / numero == % 0:
+        print('é par!')
+    print('impar!')
+par_impar(1)
