@@ -1,0 +1,53 @@
+1675427524367	geckodriver	INFO	Listening on 127.0.0.1:56974
+1675427527431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileNvCJAx"
+1675427527909	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675427527917	Marionette	INFO	Listening on port 56984
+Read port: 56984
+WebDriver BiDi listening on ws://127.0.0.1:56975
+1675427528172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileNvCJAx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56975/devtools/browser/2739a77e-7dc9-4c12-a6a1-eaab4ab88e6f
+JavaScript warning: https://www.reclameaqui.com.br/LPSX-ng9YYLzEVxpHAwG/rGV1VhGD/TkcnSwE/SQ/9zYmN9T2w, line 1: unreachable code after return statement
+1675427533401	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.reclameaqui.com.br/LPSX-ng9YYLzEVxpHAwG/rGV1VhGD/TkcnSwE/SQ/9zYmN9T2w, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.reclameaqui.com.br/LPSX-ng9YYLzEVxpHAwG/rGV1VhGD/TkcnSwE/SQ/9zYmN9T2w, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://auth.reclameaqui.com.br/gIzaANP_CYY8MDUMtF8Ezjlf/QJXYzkbS/IB4VP0sEBw/fH1xCHU8/BxI, line 1: unreachable code after return statement
+JavaScript warning: https://auth.reclameaqui.com.br/gIzaANP_CYY8MDUMtF8Ezjlf/QJXYzkbS/IB4VP0sEBw/fH1xCHU8/BxI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://auth.reclameaqui.com.br/gIzaANP_CYY8MDUMtF8Ezjlf/QJXYzkbS/IB4VP0sEBw/fH1xCHU8/BxI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1ltCRSOx5k-1I0D0UILHPXNozEC50ZuHf8HEjBLxTFM.js line 2 > eval line 2187 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1659: Error: permitUnload is already running for this tab.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2183: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1675427552398	Marionette	INFO	Stopped listening on port 56984
+Dynamically enable window occlusion 1
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 8256, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1675428820226	geckodriver	INFO	Listening on 127.0.0.1:58202
+1675428823284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileU1K4it"
+1675428823656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675428823665	Marionette	INFO	Listening on port 58210
+Read port: 58210
+WebDriver BiDi listening on ws://127.0.0.1:58203
+1675428823887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileU1K4it\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58203/devtools/browser/0a405da2-b073-4bb7-a4a1-01e95a4eb3db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.scielo.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.scielo.br."
+1675428841409	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1675429987295	geckodriver	INFO	Listening on 127.0.0.1:58832
+1675429990351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileogbuzJ"
+1675429990711	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675429990719	Marionette	INFO	Listening on port 58840
+Read port: 58840
+WebDriver BiDi listening on ws://127.0.0.1:58833
+1675429990943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileogbuzJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58833/devtools/browser/588b61e1-2bbc-46da-bb8d-c72714247876
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.scielo.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.scielo.br."

@@ -1,0 +1,50 @@
+1675430107534	geckodriver	INFO	Listening on 127.0.0.1:58957
+1675430110589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3MR6GY"
+1675430110960	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675430110968	Marionette	INFO	Listening on port 58965
+Read port: 58965
+WebDriver BiDi listening on ws://127.0.0.1:58958
+1675430111175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3MR6GY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58958/devtools/browser/c26aaf02-2af7-4043-9ad6-e8ee21ce71e0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.scielo.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.scielo.br."
+1675430397535	geckodriver	INFO	Listening on 127.0.0.1:59218
+1675430400612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEQuA2V"
+1675430400983	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675430400990	Marionette	INFO	Listening on port 59226
+Read port: 59226
+WebDriver BiDi listening on ws://127.0.0.1:59219
+1675430401211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEQuA2V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59219/devtools/browser/1bd3e38d-6aa7-4d87-9a9e-ab55ca4d97d0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.scielo.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.scielo.br."
+SourceActor threw an exception: Error: Failed to fetch https://search.scielo.org/?q=food&lang=pt&filter%5Bin%5D%5B%5D=scl. Code 2152398862.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:557:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 557, column: 16
+console.error: (new Error("Failed to fetch https://search.scielo.org/?q=food&lang=pt&filter%5Bin%5D%5B%5D=scl. Code 2152398862.", "resource://devtools/shared/DevToolsUtils.js", 557))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 557: Error: Failed to fetch https://search.scielo.org/?q=food&lang=pt&filter%5Bin%5D%5B%5D=scl. Code 2152398862.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: Error: Failed to fetch https://search.scielo.org/?q=food&lang=pt&filter%5Bin%5D%5B%5D=scl. Code 2152398862.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:557:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 557, column: 16
+console.error: (new Error("Failed to fetch https://search.scielo.org/?q=food&lang=pt&filter%5Bin%5D%5B%5D=scl. Code 2152398862.", "resource://devtools/shared/DevToolsUtils.js", 557))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 557: Error: Failed to fetch https://search.scielo.org/?q=food&lang=pt&filter%5Bin%5D%5B%5D=scl. Code 2152398862.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: Error: Failed to fetch https://search.scielo.org/?q=food&lang=pt&filter%5Bin%5D%5B%5D=scl. Code 2152398862.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:557:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 557, column: 16
+console.error: (new Error("Failed to fetch https://search.scielo.org/?q=food&lang=pt&filter%5Bin%5D%5B%5D=scl. Code 2152398862.", "resource://devtools/shared/DevToolsUtils.js", 557))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 557: Error: Failed to fetch https://search.scielo.org/?q=food&lang=pt&filter%5Bin%5D%5B%5D=scl. Code 2152398862.
