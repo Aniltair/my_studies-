@@ -1499,3 +1499,100 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:64877/devtools/browser/f4709c07-4e33-46aa-9b27-d244bd727e6f
 JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675545595956	geckodriver	INFO	Listening on 127.0.0.1:64972
+1675545599038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile7tdx0r"
+1675545599418	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675545599425	Marionette	INFO	Listening on port 64980
+Read port: 64980
+WebDriver BiDi listening on ws://127.0.0.1:64973
+1675545599662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile7tdx0r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64973/devtools/browser/e95f80e4-0a34-4521-9f2b-93274e5966cb
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675545636056	geckodriver	INFO	Listening on 127.0.0.1:65044
+1675545639126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileybnjHR"
+1675545639506	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675545639513	Marionette	INFO	Listening on port 65052
+Read port: 65052
+WebDriver BiDi listening on ws://127.0.0.1:65045
+1675545639743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileybnjHR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65045/devtools/browser/e4d5100e-591f-4a7c-a86c-45acf3a4e4ff
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675545672282	geckodriver	INFO	Listening on 127.0.0.1:65114
+1675545675350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekhMiXq"
+1675545675724	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675545675731	Marionette	INFO	Listening on port 65122
+Read port: 65122
+WebDriver BiDi listening on ws://127.0.0.1:65115
+1675545675961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekhMiXq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65115/devtools/browser/724f5779-987f-4f95-97bf-e5d447470852
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675545726617	geckodriver	INFO	Listening on 127.0.0.1:65180
+1675545729658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegeee6N"
+1675545730043	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675545730050	Marionette	INFO	Listening on port 65188
+Read port: 65188
+WebDriver BiDi listening on ws://127.0.0.1:65181
+1675545730284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegeee6N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65181/devtools/browser/3e0ae1ae-3482-4c0f-bfc5-f03d182d8b5d
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675545885744	geckodriver	INFO	Listening on 127.0.0.1:65259
+1675545888846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65260" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGFcqcX"
+1675545889230	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675545889239	Marionette	INFO	Listening on port 65267
+Read port: 65267
+WebDriver BiDi listening on ws://127.0.0.1:65260
+1675545889456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGFcqcX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65260/devtools/browser/ed8c6afe-ba8f-4342-90c2-f10ca47d5898
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675545932250	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1675545973159	geckodriver	INFO	Listening on 127.0.0.1:65331
+1675545976213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65332" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezlkShq"
+1675545976588	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675545976595	Marionette	INFO	Listening on port 65339
+Read port: 65339
+WebDriver BiDi listening on ws://127.0.0.1:65332
+1675545976809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezlkShq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65332/devtools/browser/0b6e6b30-e741-4e07-9996-8a4ef065d7b9
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675546018413	geckodriver	INFO	Listening on 127.0.0.1:65399
+1675546021494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilel71kyP"
+1675546021879	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675546021886	Marionette	INFO	Listening on port 65407
+Read port: 65407
+WebDriver BiDi listening on ws://127.0.0.1:65400
+1675546022108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilel71kyP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65400/devtools/browser/c2fa3969-bba4-403b-9c7f-c478a00a7da8
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675546105903	geckodriver	INFO	Listening on 127.0.0.1:65470
+1675546108963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileAyrLjo"
+1675546109346	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675546109353	Marionette	INFO	Listening on port 65478
+Read port: 65478
+WebDriver BiDi listening on ws://127.0.0.1:65471
+1675546109592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileAyrLjo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65471/devtools/browser/dd857df8-9d5a-42ff-8e5c-91fd717f30e9
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."

@@ -11,7 +11,7 @@ class scielo:
         self.pesquisa = '#searchForm_lookfor' #bara de pesquisa inicial 
         self.botao_pesquisa_1 = 'button.btn'  #Botao de pesquisa da barra inicial
         self.ver_mais = '//*[@id="detail"]' #xpath
-
+        self.informacoes =  'div.col-sm-12:nth-child(1)'  
     def navigate(self):
         self.driver.get(self.url)
 
@@ -38,6 +38,13 @@ class scielo:
     def voltar(self):
         driver.back()
 
+    def infos(self):
+        infos = driver.find_element(By.CSS_SELECTOR, self.informacoes)
+        print(infos.text)
+        print('****************************************************')
+        time.sleep(1)
+
+
     def acao(self):
         pass
     
@@ -46,10 +53,11 @@ class scielo:
         for i in range(len(butons)):
             butons = driver.find_elements(By.CLASS_NAME, 'detail')
             butons[i].click()
+            self.infos()
             driver.execute_script("window.history.go(-1)")
             butons = driver.find_elements(By.CLASS_NAME, 'detail')
-            time.sleep(1)
-            
+            time.sleep(2)
+
 class requisicao:
     def __init__(self):
         self.url_atual = bdtd.driver.current_url
