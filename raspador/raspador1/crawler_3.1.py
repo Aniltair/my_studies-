@@ -25,7 +25,6 @@ class scielo:
         time.sleep(1)
         scielo.clicar(self.botao_pesquisa_1)# isso clica no pesquisar
         return pesquisar
-    
     def ver(self):
         ver = scielo.clicar(self.ver_mais)
         return ver
@@ -40,24 +39,24 @@ class scielo:
     
         
     def _get_boxes(self):
-         caixas = drive.find_elements(By.CLASS_NAME, self.box )
+         caixas = drive.find_elements(By.CLASS_NAME, self.box)
          return caixas
-
     def get_all_data(self):
         boxes = self._get_boxes()
         for box in boxes:
-            print(box.text)
+            
+            
 
-def execucao():          
-    drive = webdriver.Firefox()
-    bdtd = scielo(drive)
-    bdtd.navigate()
-    bdtd.pesquisar()
-    bdtd.get_all_data()
-    bdtd.ver()
-    bdtd.infos()
-    time.sleep(5)
-    bdtd.voltar()
-execucao()
+            
+drive = webdriver.Firefox()
+bdtd = scielo(drive)
+bdtd.navigate()
+bdtd.pesquisar()
+bdtd.get_all_data()
+bdtd.ver()
+bdtd.infos()
+time.sleep(5)
+bdtd.voltar()
+
 
 
