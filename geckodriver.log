@@ -1596,3 +1596,356 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:65471/devtools/browser/dd857df8-9d5a-42ff-8e5c-91fd717f30e9
 JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675606505583	geckodriver	INFO	Listening on 127.0.0.1:60707
+1675606508642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePPbswP"
+1675606509030	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675606509038	Marionette	INFO	Listening on port 60719
+Read port: 60719
+WebDriver BiDi listening on ws://127.0.0.1:60708
+1675606509247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePPbswP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60708/devtools/browser/fe598152-8b67-47f4-9142-ad74fba89fca
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+[Parent 9828, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1675607186467	geckodriver	INFO	Listening on 127.0.0.1:60965
+1675607197507	geckodriver	INFO	Listening on 127.0.0.1:60976
+1675607200553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGjVsdd"
+1675607200921	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675607200927	Marionette	INFO	Listening on port 60987
+Read port: 60987
+WebDriver BiDi listening on ws://127.0.0.1:60977
+1675607201168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGjVsdd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60977/devtools/browser/d5cd747c-7d44-4379-9e83-ac567830ba0d
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675607411008	geckodriver	INFO	Listening on 127.0.0.1:49408
+1675607414085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBJCJw6"
+1675607414745	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675607414754	Marionette	INFO	Listening on port 49417
+Read port: 49417
+WebDriver BiDi listening on ws://127.0.0.1:49409
+1675607415053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBJCJw6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49409/devtools/browser/e6d59bdb-a61f-4255-9670-9d4216a20af9
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675607660367	geckodriver	INFO	Listening on 127.0.0.1:49543
+1675607663418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile0CycuV"
+1675607663795	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675607663803	Marionette	INFO	Listening on port 49553
+Read port: 49553
+WebDriver BiDi listening on ws://127.0.0.1:49544
+1675607664025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile0CycuV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49544/devtools/browser/d0be2cc3-a91c-42d7-8202-8b4eba74b9e7
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+Shutting down due to socket process crash.
+1675607704781	geckodriver	INFO	Listening on 127.0.0.1:49620
+1675607707863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebMssK6"
+1675607708232	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675607708239	Marionette	INFO	Listening on port 49631
+Read port: 49631
+WebDriver BiDi listening on ws://127.0.0.1:49621
+1675607708477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebMssK6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49621/devtools/browser/e85113f7-c6bb-488d-bb85-95cb007ec7a7
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+[Parent 13512, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1675607801435	geckodriver	INFO	Listening on 127.0.0.1:49704
+1675607804496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWefWVa"
+1675607804895	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675607804902	Marionette	INFO	Listening on port 49714
+Read port: 49714
+WebDriver BiDi listening on ws://127.0.0.1:49705
+1675607805268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1675607825359	geckodriver	INFO	Listening on 127.0.0.1:49725
+1675607828415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileebhxNn"
+1675607828789	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675607828797	Marionette	INFO	Listening on port 49735
+Read port: 49735
+WebDriver BiDi listening on ws://127.0.0.1:49726
+1675607829040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileebhxNn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49726/devtools/browser/44833790-c87e-45e7-abfd-800892f47faf
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675607849193	Marionette	INFO	Stopped listening on port 49735
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1675607942052	geckodriver	INFO	Listening on 127.0.0.1:61689
+1675607945131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilew4PO9b"
+1675607945513	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675607945518	Marionette	INFO	Listening on port 61699
+Read port: 61699
+WebDriver BiDi listening on ws://127.0.0.1:61690
+1675607945763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilew4PO9b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61690/devtools/browser/e92c7864-129c-4b38-8e47-7965d07b6552
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675610263633	geckodriver	INFO	Listening on 127.0.0.1:62715
+1675610266707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBrqxWn"
+1675610267083	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675610267091	Marionette	INFO	Listening on port 62725
+Read port: 62725
+WebDriver BiDi listening on ws://127.0.0.1:62716
+1675610267316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBrqxWn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62716/devtools/browser/318d32aa-e63a-4bfb-9d76-cd137f81d4d3
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675610413860	geckodriver	INFO	Listening on 127.0.0.1:62813
+1675610416938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62814" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileADUSt0"
+1675610417333	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675610417340	Marionette	INFO	Listening on port 62825
+Read port: 62825
+WebDriver BiDi listening on ws://127.0.0.1:62814
+1675610417568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileADUSt0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62814/devtools/browser/0784fc7b-2620-4d9d-a96a-3a0ccac2b3f3
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675610469281	geckodriver	INFO	Listening on 127.0.0.1:62890
+1675610472359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGnHjSP"
+1675610472727	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675610472733	Marionette	INFO	Listening on port 62900
+Read port: 62900
+WebDriver BiDi listening on ws://127.0.0.1:62891
+1675610472959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGnHjSP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62891/devtools/browser/631fc664-e4c9-44b4-a150-5097fbbcded2
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675610550992	geckodriver	INFO	Listening on 127.0.0.1:62971
+1675610554060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62972" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilewmVOym"
+1675610554458	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675610554465	Marionette	INFO	Listening on port 62981
+Read port: 62981
+WebDriver BiDi listening on ws://127.0.0.1:62972
+1675610554699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilewmVOym\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62972/devtools/browser/b880a6ba-82e8-4ee6-ab51-63f902fe35e4
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675610655557	geckodriver	INFO	Listening on 127.0.0.1:63077
+1675610658627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQWGv4Z"
+1675610658999	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675610659006	Marionette	INFO	Listening on port 63087
+Read port: 63087
+WebDriver BiDi listening on ws://127.0.0.1:63078
+1675610659240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQWGv4Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63078/devtools/browser/5398bedb-1699-4a3e-9bf4-b2d144e0eb2e
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675610714028	geckodriver	INFO	Listening on 127.0.0.1:63194
+1675610717106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilexCuzOD"
+1675610717540	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675610717547	Marionette	INFO	Listening on port 63205
+Read port: 63205
+WebDriver BiDi listening on ws://127.0.0.1:63195
+1675610717782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilexCuzOD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63195/devtools/browser/0fa7c1cf-4e8f-48b0-ad35-e7ee2f3aee2a
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675610756311	geckodriver	INFO	Listening on 127.0.0.1:63265
+1675610759398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUOov3F"
+1675610759768	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675610759775	Marionette	INFO	Listening on port 63275
+Read port: 63275
+WebDriver BiDi listening on ws://127.0.0.1:63266
+1675610760015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUOov3F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63266/devtools/browser/7a9ef78f-1d28-4c67-84de-e0d3e6c01414
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675610845546	geckodriver	INFO	Listening on 127.0.0.1:63353
+1675610848631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledF2hR1"
+1675610849010	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675610849016	Marionette	INFO	Listening on port 63362
+Read port: 63362
+WebDriver BiDi listening on ws://127.0.0.1:63354
+1675610849246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledF2hR1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63354/devtools/browser/bf278f36-6a88-44dc-945c-9e0fcb90dd78
+JavaScript error: https://bdtd.ibict.br/vufind/themes/bootstrap3/js/vendor/bootstrap.min.js?_=1501592850, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://bdtd.ibict.br/vufind/themes/bootstrap3/js/vendor/bootstrap-accessibility.min.js?_=1501592850, line 4: ReferenceError: jQuery is not defined
+JavaScript error: https://bdtd.ibict.br/vufind/themes/bootstrap3/js/vendor/validator.min.js?_=1501592850, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://bdtd.ibict.br/vufind/themes/bootstrap3/js/lib/form-attr-polyfill.js?_=1501592850, line 68: ReferenceError: jQuery is not defined
+JavaScript error: https://bdtd.ibict.br/vufind/themes/bootstrap3/js/lib/autocomplete.js?_=1501592850, line 390: ReferenceError: jQuery is not defined
+JavaScript error: https://bdtd.ibict.br/vufind/themes/bootstrap3/js/common.js?_=1501592850, line 368: ReferenceError: $ is not defined
+JavaScript error: https://cdn.datatables.net/1.10.15/js/jquery.dataTables.js, line 56: ReferenceError: jQuery is not defined
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 14: ReferenceError: jQuery is not defined
+JavaScript error: https://bdtd.ibict.br/vufind/, line 247: ReferenceError: $ is not defined
+JavaScript error: https://bdtd.ibict.br/vufind/, line 275: ReferenceError: $ is not defined
+JavaScript error: https://bdtd.ibict.br/vufind/, line 309: ReferenceError: $ is not defined
+JavaScript error: https://bdtd.ibict.br/vufind/, line 314: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675611101271	geckodriver	INFO	Listening on 127.0.0.1:55187
+1675611104350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegEyjnL"
+1675611104782	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675611104789	Marionette	INFO	Listening on port 55197
+Read port: 55197
+WebDriver BiDi listening on ws://127.0.0.1:55188
+1675611105013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegEyjnL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55188/devtools/browser/223a1cd3-91a7-44e4-8cb5-f05dd861273f
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675611177448	geckodriver	INFO	Listening on 127.0.0.1:55262
+1675611180516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9qfMGD"
+1675611180890	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675611180896	Marionette	INFO	Listening on port 55272
+Read port: 55272
+WebDriver BiDi listening on ws://127.0.0.1:55263
+1675611181127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9qfMGD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55263/devtools/browser/534a9e80-6964-44cf-b887-8c5d82c375b0
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."
+1675611487812	geckodriver	INFO	Listening on 127.0.0.1:55366
+1675611490902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUzJG7A"
+1675611491287	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675611491295	Marionette	INFO	Listening on port 55377
+Read port: 55377
+WebDriver BiDi listening on ws://127.0.0.1:55367
+1675611491542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUzJG7A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55367/devtools/browser/16c65f02-c521-4bff-a211-37ff88905cb5
+JavaScript error: https://code.jquery.com/ui/1.12.1/jquery-ui.js, line 6015: TypeError: this.source is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bdtd.ibict.br."

@@ -43,10 +43,6 @@ class scielo:
         print(infos.text)
         print('****************************************************')
         time.sleep(1)
-
-
-    def acao(self):
-        pass
     
     def get_all_botao(self):
         butons = driver.find_elements(By.CLASS_NAME, 'detail')
@@ -57,24 +53,19 @@ class scielo:
             driver.execute_script("window.history.go(-1)")
             butons = driver.find_elements(By.CLASS_NAME, 'detail')
             time.sleep(2)
-
+'''
 class requisicao:
     def __init__(self):
         self.url_atual = bdtd.driver.current_url
         self.response = r.get(self.url_atual)
     def atual_url(self):
         return  self.url_atual
-
-class sopa:
-    def __init__(self):
-        pass
-        
+'''
 
 
 driver = webdriver.Firefox()
 bdtd = scielo(driver)
 bdtd.navigate()
 bdtd.pesquisar()
-req = requisicao() #para chamar algum argumento da requisicao, eu devo retornar com req.argumento
-sp = sopa() # para chamar os argumentos de sopa
 bdtd.get_all_botao()
+#req = requisicao() #para chamar algum argumento da requisicao, eu devo retornar com req.argumento
