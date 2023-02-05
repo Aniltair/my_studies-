@@ -22,6 +22,9 @@ class scielo:
         self.assunto = 'table.table:nth-child(3) > tbody:nth-child(1) > tr:nth-child(6)'
         self.texto_completo = 'table.table:nth-child(3) > tbody:nth-child(1) > tr:nth-child(7)'
         self.descricao = 'table.table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1)'
+        self.ano_de = '#publishDatefrom'
+        self.ano_ate = '#publishDateto'
+        self.clicavel = 'input.btn'
     #inicia o driver
     def navigate(self):
         self.driver.get(self.url)
@@ -59,25 +62,35 @@ class scielo:
     def tipo_doc_1(self):
             tipo_documento_1 = driver.find_element(By.CSS_SELECTOR, self.tipo_documento).text
             print(' ')
-            return print(f'#{tipo_documento_1}')
+            return print(f'{tipo_documento_1}')
     def idioma_1(self):
             idioma_1 = driver.find_element(By.CSS_SELECTOR, self.idioma).text
             print(' ')
-            return print(f'#{idioma_1}')
+            return print(f'{idioma_1}')
     def assunto_1(self):
             assunto_1 = driver.find_element(By.CSS_SELECTOR, self.assunto).text
-            assunto_1.split(' ')
+            assunto_1= assunto_1.split(' ')
             print(' ')
             return print(f'#{assunto_1}')
     def texto_completo_1(self):
             texto_completo_1 = driver.find_element(By.CSS_SELECTOR, self.texto_completo).text
             print(' ')
-            return print(f'#{texto_completo_1}')
+            return print(f'{texto_completo_1}')
     def descricao_1(self):
             descricao_1 = driver.find_element(By.CSS_SELECTOR, self.descricao).text
             print(' ')
-            return print(f'#{descricao_1}')
-    
+            return print(f'{descricao_1}')
+    # ajusta as datas da pesquisa
+    def de_(self):
+        scielo.clicar(self.ano_de)
+        ano1 = driver.find_element(By.CSS_SELECTOR, '#publishDatefrom')
+        ano_pesquisa = ano1.send_keys(input('De: '))
+        return ano_pesquisa
+    def ate_(self):
+        scielo.clicar(self.ano_ate)
+        ano_1 = driver.find_element(By.CSS_SELECTOR, '#publishDateto')
+        ano_pesquisa_1 = ano_1.send_keys(input('Até: '))
+        return ano_pesquisa_1
     ''' # printa todo o conteudo da pagina
     def infos(self):
         infos = driver.find_element(By.CSS_SELECTOR, self.informacoes)
@@ -85,7 +98,8 @@ class scielo:
         print('****************************************************')
         time.sleep(1)
     '''
-    
+    def definir(self):
+       return driver.find_element(By.CSS_SELECTOR, 'input.btn').click()
     def copia(self):
         butons = driver.find_elements(By.CLASS_NAME, 'detail')
         for i in range(len(butons)):
@@ -118,6 +132,8 @@ driver = webdriver.Firefox()
 bdtd = scielo(driver)
 bdtd.navigate()
 bdtd.pesquisar()
+bdtd.de_()
+bdtd.ate_()
+bdtd.definir()
 bdtd.copia()
 
-#req = requisicao() #para chamar algum argumento da requisicao, eu devo retornar com req.argumento
