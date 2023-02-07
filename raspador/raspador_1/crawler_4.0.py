@@ -53,14 +53,15 @@ class scielo:
             driver.execute_script("window.history.go(-1)")
             butons = driver.find_elements(By.CLASS_NAME, 'detail')
             time.sleep(2)
-'''
-class requisicao:
-    def __init__(self):
-        self.url_atual = bdtd.driver.current_url
-        self.response = r.get(self.url_atual)
-    def atual_url(self):
-        return  self.url_atual
-'''
+
+# class requisicao:
+#     def __init__(self):
+#         self.url_atual = bdtd.driver.current_url
+#         self.response = r.get(self.url_atual)
+#     def atual_url(self):
+#         return  self.url_atual
+
+
 
 
 driver = webdriver.Firefox()
