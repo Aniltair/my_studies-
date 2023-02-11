@@ -89,6 +89,9 @@ class solucao:
         return fat_correct
     
     # calcula a molaridade real de uma solucao. 
+    # m's sao as molaridades achadas, ou os calculos molares 
+    # q = quantidade de molaridades encontradas
+    # mol_conhecida é a molaridade do reagente utilizada para titular a nossa solucao.
     def molaridade_real(self, molaridade_teorica):
         molaridade_real = self.fator_correcao(m1=0.502, m2=0.501, m3=0.502, q=3, mol_conhecida=0.5)*molaridade_teorica
         print(molaridade_real)
@@ -100,9 +103,9 @@ def realiza_o_calculo():
     print(f'{minha_funcao.calculo_volume():.3f}ml')
     print(f'{minha_funcao.correcao_pureza():.3f}ml')
 
-    minha_funcao.fator_correcao(m1=0.502, m2=0.501, m3=0.502, q=3, mol_conhecida=0.5)
-    minha_funcao.calculo_molar(0.5, 25.2, 25)
-    minha_funcao.molaridade_real(0.5)
+    #minha_funcao.fator_correcao(m1=0.502, m2=0.501, m3=0.502, q=3, mol_conhecida=0.5)
+    #minha_funcao.calculo_molar(0.5, 25.2, 25)
+    #minha_funcao.molaridade_real(0.5)
 realiza_o_calculo()
 
 
